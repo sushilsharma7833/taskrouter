@@ -1,0 +1,19 @@
+/* src/SingleProduct.css */
+.single-product {
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 5px;
+  background-color: #f0f0f0;
+}
+
+.single-product h2 {
+  margin: 0;
+  font-size: 2em;
+}
+
+.single-product p {
+  margin: 10px 0 0;
+  color: #333;
+  font-size: 1.2em;
+}

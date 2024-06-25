@@ -1,0 +1,32 @@
+/* src/Product.css */
+.product {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.product h2 {
+  margin: 0;
+  font-size: 1.5em;
+}
+
+.product p {
+  margin: 5px 0 0;
+  color: #555;
+}
+
+.product a {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 5px 10px;
+  background-color: #007bff;
+  color: white;
+  text-decoration: none;
+  border-radius: 3px;
+}
+
+.product a:hover {
+  background-color: #0056b3;
+}
